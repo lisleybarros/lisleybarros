@@ -1,0 +1,4 @@
+- 👋 Oi, meu nome é Lísley Barros
+- 👀 Estou interessada em aprender mais sobre programação..
+- 🌱 Estou aprendendo atualmente JavaScript
+- 📫 Como chegar até mim: lisleysilva41@gmail.com
