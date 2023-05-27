@@ -13,7 +13,7 @@
   
   ##
   
-  <img align="left" alt="Desenho Lísley" heigth="60" width="80" src="https://github.com/lisleybarros/lisleybarros/assets/102439772/c32f72a2-0dc5-4b9b-8b55-53ebe619182f">
+  <img align="left" alt="Desenho Lísley" heigth="60" width="80" src="https://i.imgflip.com/7nd7gt.gif">
           
 </div>
 
